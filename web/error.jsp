@@ -12,8 +12,10 @@
         <title>Error En login</title>
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/css/bootstrap.min.css" rel="stylesheet">
     </head>
-    <body>
-        <h1>Usuario o contraseña incorrectos</h1>
-        <a href="login.jsp">Volver a intentar</a>
+    <body class="bg-succes bg-opacity-10">
+        <div class="alert alert-success text-center">
+            <h1>Usuario o contraseña incorrectos</h1>
+            <a href="login.jsp">Volver a intentar</a>
+        </div>
     </body>
 </html>
