@@ -15,6 +15,9 @@
     </head>
     
     <body>
+        <div class="box-titulo">
+            <h1>TEAM PASCAL!!!</h1>
+        </div>
         <div class="box">
             <h2>Iniciar sesión:</h2><br>
             <div class="formulario_reg">   
