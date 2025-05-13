@@ -15,13 +15,15 @@
     </head>
     
     <body>
-        <h2>Iniciar sesión</h2>
-        <div class="form">   
-            <form action="login" method="post">
-                Usuario: <input type="text" name="usuario"><br><br>
-                Contraseña: <input type="password" name="password"><br>
-            <input type="submit" value="Ingresar">
-            </form>
+        <div class="box">
+            <h2>Iniciar sesión:</h2><br>
+            <div class="formulario_reg">   
+                <form action="login" method="post">
+                    Usuario: <input type="text" name="usuario">
+                    Contraseña: <input type="password" name="password"><br><br>
+                <input type="submit" value="Ingresar">
+                </form>
+            </div>
         </div>
         
     </body>
