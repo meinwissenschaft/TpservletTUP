@@ -1,0 +1,9 @@
+body{
+    backgroud-color: #f5f5f5;
+    font-family: 'Segoe UI', sans-serif;
+}
+.form div{
+    float: right;
+    margin-left: 350px;  
+}
+
